@@ -1,0 +1,24 @@
+---
+layout: post-index
+title: Meet the team
+description: "Describe this nonsense."
+---
+
+<h1> WE ARE KHMD </h1>
+<br>
+
+{% for member in site.members %}
+
+<div class="col-xs-3 col-md-3 col-lg-2">
+
+    {% if member.image.profile %}
+        <a href="{{ site.url }}{{ member.url }}" class="thumbnail">
+            <img class="img-rounded" src="{{ site.url }}/images/{{ member.image.profile }}" alt="{{ member.title }}">
+        </a>
+    {% endif %}
+    <h3><a href="{{ site.url }}{{ member.url }}" title="{{ member.title }}">{{ member.title }}</a></h3>
+    <p> {{member.description}} </p>
+
+</div>
+
+{% endfor %}
