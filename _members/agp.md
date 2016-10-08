@@ -2,26 +2,21 @@
 layout: post
 title: Gautam Padiyar
 description: Founder
+batch: Class of 2016
+current: Studying at Shiv Nadar University
 image: 
-    profile: "gp.webp"
+    profile: "gp.jpg"
 published: true
 ---
-
-# Gautam Padiyar
-
-Batch: Class of 2016. Studied from 6th to 12th
-
-Current place of study : Shiv Nadar University
-
-#### Story (optional): 
+### Story (optional): 
 
 I was a hardcore android root user who eventually wanted to build a Custom ROM. Tried and failed miserably and took up android programming. Learnt Android really slowly and did only copy-paste coding for a few years. Slowly started understanding what I was doing and started attending various events and workshops like Design Day, BMOSC, Google I/O extended, Google Devfest, HackIndia Hackathon, and technology meetups all over Bangalore. Started KHMD with the idea of collaboration that cut across typical peer groups. 
 
-#### Achievements : 
+### Achievements : 
 
 Winning Bosch i3
 
-#### Projects(Most important): 
+### Projects(Most important): 
 
 1. Simple Android app to help deaf and hearing impaired people communicate effectively with the world. (Jan 2013)
 
@@ -42,15 +37,15 @@ Winning Bosch i3
 
 9. Crowdsourced pothole detector for Android : Ongoing for the near future. (Sep 2016 - )
 
-#### Past interests : 
+### Past interests : 
 
 root Android.
 
-#### Present interests
+### Present interests
 
 Android, C and *NIX systems, machine learning, sensors and basics of pretty much everything used to build tech.
 
-#### Contact info ( also whether you'd like to be contacted at all)
+### Contact info ( also whether you'd like to be contacted at all)
 
 I'm always available by email.
 Ping me if you want my phone number.

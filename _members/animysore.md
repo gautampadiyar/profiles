@@ -3,10 +3,8 @@ layout: post
 title: Aniruddha Mysore
 description: Occasional 'elper
 image: 
-    profile: "animysore.jpeg"
+    profile: "avatar.png"
 published: true
 ---
-
-# Aniruddha Mysore
 
 Hello there.
