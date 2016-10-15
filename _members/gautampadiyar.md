@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Gautam Padiyar
-description: Founder
+description: 
 batch: Class of 2016
 current: Studying at Shiv Nadar University
 image: 
     profile: "gp.jpg"
 published: true
 ---
-### Story (optional): 
+### Story: 
 
 I was a hardcore android root user who eventually wanted to build a Custom ROM. Tried and failed miserably and took up android programming. Learnt Android really slowly and did only copy-paste coding for a few years. Slowly started understanding what I was doing and started attending various events and workshops like Design Day, BMOSC, Google I/O extended, Google Devfest, HackIndia Hackathon, and technology meetups all over Bangalore. Started KHMD with the idea of collaboration that cut across typical peer groups. 
 
@@ -16,7 +16,7 @@ I was a hardcore android root user who eventually wanted to build a Custom ROM. 
 
 Winning Bosch i3
 
-### Projects(Most important): 
+### Projects: 
 
 1. Simple Android app to help deaf and hearing impaired people communicate effectively with the world. (Jan 2013)
 
@@ -45,7 +45,7 @@ root Android.
 
 Android, C and *NIX systems, machine learning, sensors and basics of pretty much everything used to build tech.
 
-### Contact info ( also whether you'd like to be contacted at all)
+### Contact info
 
 I'm always available by email.
 Ping me if you want my phone number.
