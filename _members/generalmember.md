@@ -29,4 +29,4 @@ Barking, and bitches
 
 ### Contact info
 
-Always found with my owner
+I may or may not be found.
