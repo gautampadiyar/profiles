@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Gautam Padiyar
-description: 
+description: No-nonsense person, loves failing, Founder KHMD
 batch: Class of 2016
-current: Studying at Shiv Nadar University
+current: Studying Computer Science at Shiv Nadar University
 image: 
     profile: "gp.jpg"
 published: true
 ---
 ### Story: 
 
-I was a hardcore android root user who eventually wanted to build a Custom ROM. Tried and failed miserably and took up android programming. Learnt Android really slowly and did only copy-paste coding for a few years. Slowly started understanding what I was doing and started attending various events and workshops like Design Day, BMOSC, Google I/O extended, Google Devfest, HackIndia Hackathon, and technology meetups all over Bangalore. Started KHMD with the idea of collaboration that cut across typical peer groups. 
+I was a hardcore android root user who wanted to build a Custom ROM for my first Android phone. Tried and failed miserably and ended up learning android app development. Made extremely slow progress with android and did only copy-paste coding for more than a year. Slowly started understanding what I was doing. I attended various events and workshops like Design Day, BMOSC, Google I/O extended, Google Devfest, HackIndia Hackathon, and technology meetups all over Bangalore and that got me interested in the idea of having a community in school. Started KHMD with the idea of collaboration that cut across typical peer groups in school. 
 
 ### Achievements : 
 
-Winning Bosch i3
+Won Bosch i3 in 12th. 
 
 ### Projects: 
 
@@ -33,7 +33,7 @@ Winning Bosch i3
 
 7. Worked with Reap Benefit on their Arduino and sensor based innovation like their smart drip irrigation system. (June 2016)
 
-8. KHMD App : Work ends in the near future. (Oct 2016)
+8. KHMD App : No idea what it'll become (Oct 2016 - )
 
 9. Crowdsourced pothole detector for Android : Ongoing for the near future. (Sep 2016 - )
 
@@ -47,6 +47,6 @@ Android, C and *NIX systems, machine learning, sensors and basics of pretty much
 
 ### Contact info
 
-I'm always available by email.
-Ping me if you want my phone number.
+perpetually available at gautam[.]padiyar[@]gmail[.]cPm
+Ping me if you want my phone number to discuss stuff in more detail.
 
