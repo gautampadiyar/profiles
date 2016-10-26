@@ -7,4 +7,26 @@ image:
 published: true
 ---
 
-Hi, I'm a lapdog. Woof.
+### Story: 
+
+I'm a lapdog. woof!
+
+### Achievements : 
+
+My best achievements.
+
+### Projects: 
+
+Here are all my projects
+
+### Past interests : 
+
+Barking
+
+### Present interests
+
+Barking, and bitches
+
+### Contact info
+
+Always found with my owner
