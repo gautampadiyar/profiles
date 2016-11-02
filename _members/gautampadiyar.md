@@ -14,7 +14,7 @@ I was a hardcore android root user who wanted to build a Custom ROM for my first
 
 ### Achievements : 
 
-Won Bosch i3 in 12th. 
+Won Bosch i3 in 12th along with Aabharan Hemanth and Adhesh Shenoy
 
 ### Projects: 
 
@@ -29,7 +29,7 @@ Won Bosch i3 in 12th.
 
 5. MUN Moderator for KMUN : Built the software used for KMUN 2015 along with Aditya Venkatraman, Arjun Rao, and Sriram Desai (June 2015)
 
-6. Bash for Windows : Built a Linux terminal that ran natively on Windows using the qt framework. A few directory commands, file manipulation commands and the entire set of man pages were available to the user. The application also intended to introduce beginners to the world of the Linux terminal using a friendly GUI instruction window. (Sep 2015 - Jan 2016)
+6. Bash for Windows : Built a Linux terminal that ran natively on Windows using the qt framework. A few directory commands, file manipulation commands and the entire set of man pages were available to the user. The application also intended to introduce beginners to the world of the Linux terminal using a friendly GUI instruction window. (Sep 2015 - Jan 2016) with Aditya Venkatraman
 
 7. Worked with Reap Benefit on their Arduino and sensor based innovation like their smart drip irrigation system. (June 2016)
 
