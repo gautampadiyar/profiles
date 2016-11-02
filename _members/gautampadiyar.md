@@ -47,6 +47,6 @@ Android, C and *NIX systems, machine learning, sensors and basics of pretty much
 
 ### Contact info
 
-perpetually available at gautam[.]padiyar[@]gmail[.]cPm
+perpetually available at gautam[.]padiyar[@]gmail[.]com
 Ping me if you want my phone number to discuss stuff in more detail.
 
