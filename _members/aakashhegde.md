@@ -8,6 +8,7 @@ image:
     profile: "aakash.jpg"
 published: false
 ---
+
 ### Story: 
 
 I’ve always had a hunger to learn and do stuff that seem like a challenge and interest me. Studied programming and know Java, C++, and by next year, Python and C. Learnt the basics of Android development when I had the time for it. I have a good design sense and like to design stuff. Almost everything substantial I’ve done, I’ve done after 10th.  Currently learning and working on making tech with processing units. 
