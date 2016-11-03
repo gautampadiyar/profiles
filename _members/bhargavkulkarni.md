@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Bhargav Kulkarni
@@ -9,6 +8,7 @@ image:
     profile: "bhargav.jpg"
 published: false
 ---
+
 ### Story: 
 
 KHMD is where my story or at least the most relevant part of life started. It allowed me to explore the world in terms of tech, science and innovation. Through KHMD I was able to get an idea of programming, building web-pages as well as how to use the arduino. I also started taking part in various science fairs like CBSE National Science fair and so on. I also began understanding a lot on ideation and it has now become my biggest strength. 
