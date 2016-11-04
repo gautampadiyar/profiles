@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Daivat Bhatt
-description: ....
+description: VFx is his thing
 batch: Class of 2016
-current: Studying Computer Science at PES University, Bangalore
+current: Studying at BITS, Hyderabad Campus
 image: 
     profile: "daivat.jpg"
-published: false
+published: true
 ---
 ### Story: 
 
