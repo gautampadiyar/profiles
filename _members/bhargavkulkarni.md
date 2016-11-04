@@ -5,7 +5,7 @@ description: Quizzer, loves physics, DIY is his middle name
 batch: Class of 2016 (10th std)
 current: 11th std at BIA
 image: 
-    profile: "bhargav.jpg"
+    profile: "bhargav.JPG"
 published: true
 ---
 
