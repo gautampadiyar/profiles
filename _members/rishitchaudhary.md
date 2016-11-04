@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Rishit Chaudhary
-description: ....
+description: Loves open source technology, services and education, constantly evolving and the ultimate perfectionist
 batch: Class of 2018
 current: 11th std. in SKCH
 image: 
-    profile: "rishit.jpg"
-published: false
+    profile: "Rishit.jpg"
+published: true
 ---
 
 ### Story: 
