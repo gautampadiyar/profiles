@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kushal Naidu
-description: .....
+description: Gaming, Coding. The 2 things that made me who I am
 batch: Class of 2016
 current: Studying Computer Science at PESIT
 image: 
@@ -14,15 +14,15 @@ I have always been fascinated by how simple statements are all that is needed to
 
 ### Achievements : 
 
-Completed a nanodegree in Machine Learning from Udacity https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009">Machine Learning</a> 
+Completed a nanodegree in Machine Learning from Udacity <https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009> Machine Learning 
 
 ### Projects: 
 
 1. Morse code in text format into a .wav sound file (12th grade project)
-2. Developed a prediction algorithm which determines whether a student needs early intervention or not based on about 30 input features using supervised learning methods, based on a dataset found in <a href=”http://archive.ics.uci.edu/ml/”>UCI Machine learning repository</a>
+2. Developed a prediction algorithm which determines whether a student needs early intervention or not based on about 30 input features using supervised learning methods, based on a dataset found in <http://archive.ics.uci.edu/ml/>UCI Machine learning repository</a>
 3. Developed a reinforcement learning algorithm to help a smartcab figure out the fastest, safest path from its location to the destination.
-4. Used data analysis methods to analyse and to find the best possible complexity of the algorithm to predict housing prices in boston, also based on a dataset found in <a href=”http://archive.ics.uci.edu/ml/”>UCI Machine learning repository</a>
-You can find all these projects and more on my github profile - github.com/kushalnaidu
+4. Used data analysis methods to analyse and to find the best possible complexity of the algorithm to predict housing prices in boston, also based on a dataset found in <http://archive.ics.uci.edu/ml/> UCI Machine learning repository</a>
+You can find all these projects and more on my github profile - <github.com/kushalnaidu>
 
 ### Present interests
 
@@ -31,6 +31,6 @@ Data analysis, Artificial intelligence, competitive programming, RPG & FPS gamin
 ### Contact info
 
 Email : akushalnaidu@gmail.com
-fb.com/kushal.naidu
+<fb.com/kushal.naidu>
 
 
