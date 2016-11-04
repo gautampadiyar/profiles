@@ -5,8 +5,8 @@ description: Pythonista, Google Fanboy, Linus Torvalds’ Disciple, FOSS is <3, 
 batch: Class of 2015
 current: Studying Information Sciences and Engineering at PES Institute of Technology.
 image: 
-    profile: "ankush.jpg"
-published: false
+    profile: "ankush.jpeg"
+published: true
 ---
 ### Story: 
 
