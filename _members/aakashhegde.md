@@ -6,7 +6,7 @@ batch: Class of 2016
 current: Studying Electronics and Communication Engineering at PESU
 image: 
     profile: "aakash.jpg"
-published: false
+published: true
 ---
 
 ### Story: 
