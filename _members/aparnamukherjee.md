@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Aparna Mukherjee
-description: .....
+description: Artist with a little madness on the side
 batch: Class of 2018
 current: 11th Std. SKCH
 image: 
     profile: "aparna.jpg"
-published: false
+published: true
 ---
 ### Story: 
 
