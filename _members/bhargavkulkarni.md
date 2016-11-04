@@ -6,7 +6,7 @@ batch: Class of 2016 (10th std)
 current: 11th std at BIA
 image: 
     profile: "bhargav.jpg"
-published: false
+published: true
 ---
 
 ### Story: 
